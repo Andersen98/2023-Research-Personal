@@ -24,10 +24,12 @@ I am chosing to organize my strengths into technical skills and investigation/re
 - I organized weekly meetings with my collaborators where I presented my research progress/listen to the colaborators experimental progress.
 - I set up individual meetings with the grad student who was running my collaborator's experiment. Through these, I gained a thorough understanding of the experimental setup and relevant needs for me as a theorist. 
 - I did well with structured collaboration, where I reached out to collaborators and roomates to setup meetings.
+- I was able to successfully take an abstract implementation idea from my advisor and turn that into a working prototype code.
+- I did well in performaing self directed learning. I developed an in depth understanding of quantum optics via my own research.
 
 ### Technical Strengths
 
-My main technical strengths are:
+My main technical strengths are roughly broken down into:
 
 1. Computer Systems
 2. Physics
@@ -38,14 +40,22 @@ My main technical strengths are:
 
 - Intimate familiarity with the compilation process for C and C++. This includes symbol lookups in shared libraries and how these are looked up on linux systems when running programs.
 - I contributed a cleaner build procedure for a labmates C++ project. This procedure was adopted and used going forward in his code's build instructions.
-- I was able to debug my project's C++ code using command line
-
+- I setup a build environment for my project, which compiled C++ code that is callable from a python interface.
 
 #### General Software Development
 
 - My main experience is in python and C++ development.
+- I have been learning python for 7 years, C for 6 years, and C++ for 5 years. 
+- My previous project is hosted on github, has unit tests, and uses the CMake build system
+- I setup well documented github repositories on Github that implimented key algorithms that I read in papers
+	- I was able to document results and get a well running concrete implementation from these
 
 ## Interests
 
-In general, I am interested in the formalization of physical phenomena such that they are able to be represented and handled on computers.
+I have two main interests:
 
+1. The formalization of physical phenomena through computer programs.
+2. Investigating and charactarizing physical systems, or system dynamics that are complex. I.e.:
+	a. Trying to figure out which parts of a complex system are relevant
+	b. Studying how the relevant parts interact and evolve in time
+I
